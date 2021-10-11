@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+“NFT” makes everything possible...”
 
-You can use the [editor on GitHub](https://github.com/hi5box/hi5box.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This March, a JPG image was sold at the price of 70,000 dollars, making NFT a hot topic for discussion. The launch of the blockchain game Axie Infinity pushed the concept of “NFT+Gamefi” to the peak of public attention.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the latter half of this year, internet giants at home and abroad successively released their own NFT works, and NFT has officially come into public focus from its original minor stream encryption circle.
 
-### Markdown
+NFT lowers the threshold for artwork collection, simplifies the operation and increase the involvement of the common folks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For creators, NFT effectively prevents problems such as copyright plagiarisim and theft which are common in the traditional way of artwork collection, thus providing better protection for creator’s rights and interest and encouraging excellent artists to make more creative works.
 
-```markdown
-Syntax highlighted code block
+After examining all NFT platforms available in the market, inheriting their virtues and abandoning their disadvantages, we have forged a base for our users to start their dream - Hi5BOX.
 
-# Header 1
-## Header 2
-### Header 3
+Here, every user could be the maker of dreams (the creator) or the achiever of dreams (the buyer). Meanwhile, we have also designed a new set of engagement systems for our users - making them shareholders and giving sole copyright to the creator, through which our users will obtain double wins of both the spirit and value.
 
-- Bulleted
-- List
+While maintaining the original function of work trading, two heated features “community” and “game” are added for Hi5BOX.
 
-1. Numbered
-2. List
+Hi5BOX are formed with many card slot communities and users could join the community of their like or set up a new one themselves where they raise funds and establish interpersonal webs to realize their dreams. Considering the diversity of user requirement, Hi5BOX launches a game mode which will satisfy both boys and girls - drawing blind box and upgrading cards.
 
-**Bold** and _Italic_ and `Code` text
+In the NFT fields, we are the later-comers, but we are also the future.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hi5box/hi5box.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We devote ourselves to achieving resonance with our users and bringing them high-quality experience. We believe that gains will always exceed pains
